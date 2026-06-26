@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Sakshi Sonone 👋
 
-<!--
-**SakshiSonone12/SakshiSonone12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.E. Electronics & Telecommunication @ PICT
 
-Here are some ideas to get you started:
+💻 Software Developer | AI/ML Enthusiast | Data Engineering Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- Python
+- SQL
+- Java
+- React.js
+- Node.js
+- FastAPI
+- PostgreSQL
+- MongoDB
+- Git & GitHub
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 Skin Lesion Classification
+- Vision Transformer based skin disease classifier
+- FastAPI Backend
+- React Frontend
+
+### 🎵 Spotify ETL Pipeline
+- Python
+- PostgreSQL
+- ETL Pipeline
+- Data Processing
+
+---
+
+## 🌱 Currently Learning
+
+- Apache Airflow
+- Data Engineering
+- Advanced SQL
+- Cloud (AWS)
+
+---
+
+## 📫 Reach Me
+
+📧 sononesakshishailesh@gmail.com
+
+📍 Pune, Maharashtra
